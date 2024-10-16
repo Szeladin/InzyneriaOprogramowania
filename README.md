@@ -1,1 +1,2 @@
 # InzyneriaOprogramowania
+# Pierwszy Commit
